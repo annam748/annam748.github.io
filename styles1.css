@@ -8,7 +8,7 @@ h1,h2,h3{
 color:brown;
 }
 ul{
-	list-style-image:url("images/tiny-coffee-cup.gif");
+	list-style-image:url("tiny-coffee-cup.gif");
 }
 a:link,a:visited
 {
